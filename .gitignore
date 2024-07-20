@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Docker
+*.container
+*.log
+Dockerfile
+
+# dotenv environment variables file
+.env
+
+# Coverage directory used by testing frameworks
+coverage/
+
+# npm config files
+.npm/
+
+# Output of 'npm pack'
+*.tgz
+
+# Mac OS files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
